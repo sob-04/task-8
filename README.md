@@ -33,4 +33,6 @@ East:    Most:Q4, Least:Q1
 South:   Most:Q1 ,Least:Q4
 
 West:    Most:Q3 ,Least:Q2
-![Screenshot (31)](https://github.com/user-attachments/assets/dbb8ed0b-4da1-48d4-945c-118ad8a3d172)
+
+
+![Screenshot (32)](https://github.com/user-attachments/assets/1f44467a-7a03-4668-9b5c-45238ad4826a)
