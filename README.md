@@ -12,7 +12,10 @@ Created 3 bar charts for Sales by Category,Sub-Category and Ship Mode. An Area c
 Map was also added and 4 sub regions viz. East, West,South and Central were created using slicer
 
 Insights: Quarterly sales(most happened): Central:Q4, East:Q4, South:Q4, West:Q4 both 2019 & 2020
+
+
 Quarterly profits: YEAR 2019
+
 CENTRAL: MOST:Q4, LEAST:Q1
 
 EAST:    MOST:Q4, LEAST:Q3
