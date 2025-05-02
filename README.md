@@ -1,13 +1,17 @@
 # task-8
 
-Downloaded sales data in csv format. Imported it into Power BI and cleaned it using Transform Data. i.e. removed blank columns, checked if there are some null values, removed duplicate rows.In returns column "#N/A" values are replaced with 0
+Downloaded sales data in csv format.[Uploading SuperStore_Sales_Dataset.csv…]
+
+
+Imported it into Power BI and cleaned it using Transform Data. i.e. removed blank columns, checked if there are some null values, removed duplicate rows.In returns column "#N/A" values are replaced with 0
 
 Converted Order Date into Month-Year format by formatting entire column
 ![Screenshot (29)](https://github.com/user-attachments/assets/2f71c3b5-6af8-42c7-979b-e8c6ed7a8896)
 ![Screenshot (30)](https://github.com/user-attachments/assets/c2b97e34-af9a-4b85-92da-91e2ea193eb6)
 
 Created 3 bar charts for Sales by Category,Sub-Category and Ship Mode. An Area chart is created to show sales of 2 years viz. 2019 and 2020. Area Chart was created for Monthly Sales by YoY and Monthly Profits by YoY. Donut Chart was created to compare Sales with Segment and Payment Mode.
-![Screenshot (31)](https://github.com/user-attachments/assets/9275c425-a1e2-4963-b383-180626d8cffa)
+![Screenshot (33)](https://github.com/user-attachments/assets/b46ccc2f-157a-49cf-914e-8d94f3726bb1)
+
 
 
 Map was also added and 4 sub regions viz. East, West,South and Central were created using slicer
