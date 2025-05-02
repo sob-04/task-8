@@ -7,7 +7,8 @@ Converted Order Date into Month-Year format by formatting entire column
 ![Screenshot (30)](https://github.com/user-attachments/assets/c2b97e34-af9a-4b85-92da-91e2ea193eb6)
 
 Created 3 bar charts for Sales by Category,Sub-Category and Ship Mode. An Area chart is created to show sales of 2 years viz. 2019 and 2020. Area Chart was created for Monthly Sales by YoY and Monthly Profits by YoY. Donut Chart was created to compare Sales with Segment and Payment Mode.
-![Screenshot (28)](https://github.com/user-attachments/assets/41e77886-f1aa-4a4e-b13c-529c0cecdb41)
+![Screenshot (31)](https://github.com/user-attachments/assets/9275c425-a1e2-4963-b383-180626d8cffa)
+
 
 Map was also added and 4 sub regions viz. East, West,South and Central were created using slicer
 
