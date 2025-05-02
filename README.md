@@ -14,12 +14,20 @@ Map was also added and 4 sub regions viz. East, West,South and Central were crea
 Insights: Quarterly sales(most happened): Central:Q4, East:Q4, South:Q4, West:Q4 both 2019 & 2020
 Quarterly profits: YEAR 2019
 CENTRAL: MOST:Q4, LEAST:Q1
+
 EAST:    MOST:Q4, LEAST:Q3
+
 SOUTH:   Most:Q1, Least:Q2
+
 West:    Most:Q3, Least:Q1
+
 
 YEAR 2020
 Central: Most:Q1, Least:Q4
+
 East:    Most:Q4, Least:Q1
+
 South:   Most:Q1 ,Least:Q4
+
 West:    Most:Q3 ,Least:Q2
+![Screenshot (31)](https://github.com/user-attachments/assets/dbb8ed0b-4da1-48d4-945c-118ad8a3d172)
