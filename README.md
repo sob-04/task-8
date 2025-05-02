@@ -1,9 +1,6 @@
 # task-8
 
-Downloaded sales data in csv format.[Uploading SuperStore_Sales_Dataset.csv…]
-
-
-Imported it into Power BI and cleaned it using Transform Data. i.e. removed blank columns, checked if there are some null values, removed duplicate rows.In returns column "#N/A" values are replaced with 0
+Downloaded sales data in csv format.Imported it into Power BI and cleaned it using Transform Data. i.e. removed blank columns, checked if there are some null values, removed duplicate rows.In returns column "#N/A" values are replaced with 0
 
 Converted Order Date into Month-Year format by formatting entire column
 ![Screenshot (29)](https://github.com/user-attachments/assets/2f71c3b5-6af8-42c7-979b-e8c6ed7a8896)
